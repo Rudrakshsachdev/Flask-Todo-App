@@ -40,21 +40,21 @@ flask-todo-app/ <br>
 ├── todo.db # SQLite database file (auto-generated) <br>
 ├── app.py # Main Flask application <br>
 └── README.md # Project documentation
-
+---
 <b> ▶️ Usage </b>
 
 - Visit the home page to add a new todo.
 - View all existing todos in the list.
 - Use the **Update** button to modify a todo.
 - Use the **Delete** button to remove a todo.
-
+---
 <b>💡 What I Learned </b>
 
 - Building a full-stack CRUD app using Flask and SQLite.
 - Styling and layout using Bootstrap.
 - Client-side validations and feedback with JavaScript.
 - Flask routing and template inheritance.
-
+---
   <b>🙋‍♂️ About the Developer</b>
 
 - 👨‍🎓 Name: Rudraksh  
