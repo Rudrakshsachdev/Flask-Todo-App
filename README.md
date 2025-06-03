@@ -28,17 +28,17 @@ A full-stack web application built with <b>Flask, HTML, CSS, and JavaScript</b> 
 
 <b>🗂️ Project Structure</b>
 
-flask-todo-app/
-├── static/
-│ ├── style.css # Custom styles
-│ └── script.js # JavaScript logic
-├── templates/
-│ ├── base.html # Base layout for all pages
-│ ├── index.html # Home page (list and add todos)
-│ ├── update.html # Page to update existing todos
-│ └── about.html # About the application
-├── todo.db # SQLite database file (auto-generated)
-├── app.py # Main Flask application
+flask-todo-app/ <br>
+├── static/ <br>
+│ ├── style.css # Custom styles <br>
+│ └── script.js # JavaScript logic <br>
+├── templates/ <br>
+│ ├── base.html # Base layout for all pages <br>
+│ ├── index.html # Home page (list and add todos) <br>
+│ ├── update.html # Page to update existing todos <br>
+│ └── about.html # About the application <br>
+├── todo.db # SQLite database file (auto-generated) <br>
+├── app.py # Main Flask application <br>
 └── README.md # Project documentation
 
 <b> ▶️ Usage </b>
@@ -54,3 +54,11 @@ flask-todo-app/
 - Styling and layout using Bootstrap.
 - Client-side validations and feedback with JavaScript.
 - Flask routing and template inheritance.
+
+  <b>🙋‍♂️ About the Developer</b>
+
+- 👨‍🎓 Name: Rudraksh  
+- 💻 First-year B.Tech CSE student @[IILM University]
+- 🌐 GitHub: [@Rudrakshsachdev](https://github.com/Rudrakshsachdev)  
+- ✉️ Email: 	rudraksh.sachdeva.19work@gmail.com
+
